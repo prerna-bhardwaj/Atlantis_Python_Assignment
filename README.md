@@ -8,6 +8,13 @@ Install the modules using the following command :
 ```
 pip install -r requirements.txt
 ```
+
+To run a code file named code.py run the following command: 
+
+```
+python code.py
+```
+
 You are good to go !!
 
 
